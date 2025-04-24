@@ -1,0 +1,7 @@
+dependencies:
+  espressif/onewire_bus:
+    version: ">=1.0.2"
+  idf:
+    version: ">=5.0"
+description: 1-Wire temperature sensor library for DS18B20 and MAX31850
+version: 1.0.0
